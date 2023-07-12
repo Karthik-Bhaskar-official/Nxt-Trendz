@@ -1,4 +1,5 @@
 In this project, let's build **Nxt Trendz** app with authentication by applying the concepts we have learned till now.
+- Checkout Here: https://nxttrendz4o.ccbp.tech/login
 
 ### Refer to the image below:
 
